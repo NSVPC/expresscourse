@@ -1,4 +1,5 @@
 #run commands in terminal 
+npm install  express
 
 #create package.json with default values
 npm init
